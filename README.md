@@ -1,5 +1,8 @@
-## Hi there 👋
+# 👩🏻‍💻 Leonardo Brandão
 
+**`AI / Back-End Developer and Machine Learning Engineer`**
+
+Me chamo Leonardo Brandão, tenho 20 anos. Sou formado, com curso superior em Inteligência artificial e machine learning pela UNG. Atualmente, estou cursando Ciência da computação na UFF. Gosto de desenvolver projetos pessoais e contribuir para projetos de software livre. principalmente na área de Visão computacional
 <!--
 **LeonardoBrandaoM/LeonardoBrandaoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
