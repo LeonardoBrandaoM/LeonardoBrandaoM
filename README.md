@@ -65,11 +65,11 @@ Me chamo Leonardo Brandão, tenho 20 anos. Sou formado, com curso superior em In
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" 
 />
 
 
