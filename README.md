@@ -49,11 +49,11 @@ Me chamo Leonardo Brandão, tenho 20 anos. Sou formado, com curso superior em In
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Go"
+    title="Go" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original-wordmark.svg)" 
 />
 <img 
     align="left" 
