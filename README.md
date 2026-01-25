@@ -71,6 +71,22 @@ Me chamo Leonardo Brandão, tenho 20 anos. Sou formado, com curso superior em In
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="Pytorch" 
+    title="Pythorch"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pytorch/pytorch-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="OpenCV" 
+    title="OpenCV"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/opencv/opencv-original-wordmark.svg" 
+/>
 
 
 <!--
