@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Leonardo%20Brand%C3%A3o%20%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20Back-End%20Developer%20and%20Machine%20Learning%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Leonardo%20Brand%C3%A3o%20%20%20%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20Back-End%20Developer%20and%20Machine%20Learning%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=LeonardoBrandaoM">
