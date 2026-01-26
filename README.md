@@ -20,6 +20,7 @@
 
 
 ## 📊 GitHub Stats
+
 <img src="https://github-readme-stats.vercel.app/api
 ?username=LeonardoBrandaoM
 &show_icons=true
@@ -28,6 +29,7 @@
 &count_private=true
 &include_all_commits=true"
 width="49%" />
+
   <img src="https://streak-stats.demolab.com/?user=LeonardoBrandaoM&theme=radical&hide_border=true&cache_seconds=86400" alt="LeonardoBrandaoM's GitHub Streak" width="49%" />
 </p>
 <p align="center">
