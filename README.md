@@ -19,9 +19,15 @@
 - Open-Finance Aplications
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoBrandaoM&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="LeonardoBrandaoM's GitHub Stats" width="49%" />
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api
+?username=LeonardoBrandaoM
+&show_icons=true
+&theme=radical
+&hide_border=true
+&count_private=true
+&include_all_commits=true"
+width="49%" />
   <img src="https://streak-stats.demolab.com/?user=LeonardoBrandaoM&theme=radical&hide_border=true&cache_seconds=86400" alt="LeonardoBrandaoM's GitHub Streak" width="49%" />
 </p>
 <p align="center">
