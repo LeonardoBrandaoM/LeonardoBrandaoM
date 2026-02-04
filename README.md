@@ -8,7 +8,8 @@
 </p>
 
 ## 📌 About Me
-- Me chamo Leonardo Brandão, tenho 20 anos. Sou formado, com curso superior em Inteligência artificial e machine learning pela UNG. Atualmente, estou cursando Ciência da computação pela UFF. Como hobbie, gosto de desenvolver projetos pessoais e contribuir para projetos de software livre. principalmente na área de Visão computacional
+- My name is Leonardo Brandão, I am 20 years old. I have a degree in Artificial Intelligence and Machine Learning from UNG. Currently, I am studying Computer Science at UFF. As a hobby, I enjoy developing personal projects and contributing to open-source software projects, mainly in the area of ​​Computer Vision.
+
 
 
 ## 🧠 My Focus Areas
