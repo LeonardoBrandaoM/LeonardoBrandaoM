@@ -19,14 +19,6 @@
 - Backend Engineering
 - Open-Finance Aplications
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoBrandaoM&theme=radical&radius=10" alt="LeonardoBrandaoM's Activity Graph" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
